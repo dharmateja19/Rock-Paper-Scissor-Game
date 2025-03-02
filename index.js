@@ -1,11 +1,3 @@
-// const r1 = document.createElement("h1");
-// r1.innerHTML="hello";
-// const root = document.getElementById("jscode");
-// root.appendChild(r1);
-
-// const rockfn = ()=>{
-    
-// }
 const buttons = document.querySelectorAll("button");
 
 const resultEl = document.getElementById("result");
